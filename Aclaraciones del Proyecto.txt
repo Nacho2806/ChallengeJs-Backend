@@ -1,0 +1,15 @@
+//Proyecto realizado de forma individual, para una prueba técnica//
+
+//La aplicación está realizada en dos partes diferentes: La primera de ellas, la parte del backend la hice con Node.js y con el uso del framework Express. En la segunda parte, la del frontend, armé el cliente con la ayuda de React.js y utilicé el framework de Boostrap para el CSS//
+
+//Consideraciones//
+Existen diferentes consideraciones las cuales no he tomado en cuenta a la hora de crear este proyecto. Primeramente, existe un atributo en la creación de los registros, el cual es el Badge(divisa) que siempre tome como ejemplo el EUR, sin tener en cuenta las diferentes divisas que existen. La segunda consideración que no tome en cuenta es que el balance general puede dar resultado negativo dado que no controlo que el usuario posea dinero antes de registrar un egreso(expense).
+
+//Aclaraciones del proyecto:
+
+1-Si bien la aplicación cuenta con una sección de Signup y Signin, la misma no está funcionando, porque al momento de realizar el login, me encontré con dificultades para continuar.
+
+2-Algo que no quedo funcionando del proyecto es en la parte del Home, al mostrar los 10 primeros registros, tuve inconvenientes con la ruta de acceso, devolviendo un error, que a pesar de investigar e intentar, no pude resolver//
+
+
+
